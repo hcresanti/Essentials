@@ -1,0 +1,15 @@
+name: Essentials
+main: essentials.Essentials
+version: 1.0
+description: Muffin's Essentials
+api-version: 1.13
+
+commands:
+ home:
+ sethome:
+ delhome:
+ homes:
+ position:
+ tpr:
+ tpa:
+ 
